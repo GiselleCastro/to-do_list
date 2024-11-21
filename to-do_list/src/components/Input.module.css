@@ -1,0 +1,46 @@
+.container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-top: -27px;
+}
+
+input {
+    background: var(--gray-500);
+    color: var(--gray-300);
+    width: 100%;
+    line-height: 54px;
+    border-radius: 8px;
+    margin-right: 8px;
+    border: 1px solid var(--gray-700);
+    border-radius: 8px;
+    padding: 0 16px;
+}
+
+input:focus {
+    border: 1px solid var(--purple-dark);
+    color: var(--gray-100);
+
+}
+
+.buttonCreateTask {
+    width: 90px;
+    line-height: 54px;
+    border-radius: 8px;
+    background: var(--blue-dark);
+    color: var(--gray-100);
+    border: none;
+    cursor: pointer;
+}
+
+.textButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.img {
+    height: 1rem;
+    margin-left: 8px;
+}

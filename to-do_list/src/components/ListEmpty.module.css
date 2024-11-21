@@ -1,0 +1,22 @@
+.noTask {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 244px;
+    color: var(--gray-300);
+    border-top: 1px solid var(--gray-400);
+}
+
+.noTask p {
+    line-height: 22px;
+}
+
+.noTask img {
+    height: 4.5rem;
+    padding-bottom: 16px;
+}
+
+.paragraphMain {
+    font-weight: bold;
+}
