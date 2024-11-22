@@ -39,7 +39,7 @@ npm run preview
 
 ## Demo
 
-![](demo.mov)
+![](demo.gif)
 
 ## Visualização
 
